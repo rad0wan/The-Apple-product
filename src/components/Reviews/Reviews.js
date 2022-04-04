@@ -1,9 +1,25 @@
-import React from 'react';
+import React, { createContext } from 'react';
+import useReview from '../../useReview/useReview';
+import Comment from '../Comment/Comment';
 
 const Reviews = () => {
+
+    const [comments, setComments] = useReview();
+
+    console.log(comments);
     return (
         <div>
-            <h1>Reviews</h1>
+            <h1 className='text-center text-4xl text-teal-500 my-10' >Our Customer Reviews</h1>
+            <div className='grid grid-cols-3 gap-5 my-10 mx-10'>
+                {
+                    comments.map(comment =>
+                        <Comment
+                            key={comment.id}
+                            comment={comment}
+                        ></Comment>
+                    )
+                }
+            </div>
         </div>
     );
 };
