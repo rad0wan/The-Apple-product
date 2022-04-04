@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <nav className='flex justify-between mx-20 my-5'>
             <div>
-                <h1>MacBook Pro</h1>
+                <h1>Apple</h1>
             </div>
             <div>
                 <NavLink to={'/home'} className={({ isActive }) => isActive ? 'mx-6 text-red-700  border-4 border-white border-b-red-700' : ' text-gray-600 mx-6 hover:text-red-500'}>HOME</NavLink>
