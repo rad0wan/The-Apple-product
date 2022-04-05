@@ -4,7 +4,6 @@ import useData from '../hooks/useData/useData';
 
 const DasBoard = () => {
     const [data, setData] = useData();
-    console.log(data);
     return (
         <div className='grid grid-cols-2  m-5'>
             <LineChart className='mx-auto' width={500} height={300} data={data} margin={{
