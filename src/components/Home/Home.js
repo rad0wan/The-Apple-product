@@ -16,7 +16,7 @@ const Home = () => {
                 <div className='lg:mx-0 mx-10 lg:mb-0 mb-8'>
                     <h1 className='text-4xl lg:text-6xl my-4'>Love The Power</h1>
                     <h2 className='text-4xl lg:text-6xl my-4'>Love The Price</h2>
-                    <p className='text-base lg:text-xl lg:w-[576px] my-4 text-gray-400'>The most powerful MacBook Pro ever is here. With the blazing-fast M1 Pro or M1 Max chip — the first Apple silicon designed for pros — you get groundbreaking performance and amazing battery life. </p>
+                    <p className='text-base lg:text-lg lg:w-[576px] my-4 text-gray-400'>The most powerful MacBook Pro ever is here. With the blazing-fast M1 Pro or M1 Max chip — the first Apple silicon designed for pros — you get groundbreaking performance and amazing battery life. </p>
                     <button className='bg-green-500 py-2 px-3 rounded-md text-white hover:bg-green-700 flex items-center lg:mx-0 mx-auto'>Live Demo <EyeIcon className='w-6 h-6 ml-1'></EyeIcon></button>
                 </div>
                 <div>
