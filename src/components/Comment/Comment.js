@@ -1,5 +1,4 @@
-import React, { useContext } from 'react';
-import { CommentContext } from '../Home/Home';
+import React from 'react';
 import { StarIcon } from '@heroicons/react/solid'
 
 const Comment = ({ comment }) => {

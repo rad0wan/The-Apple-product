@@ -1,10 +1,10 @@
 import React, { createContext } from 'react';
 import { useNavigate } from 'react-router-dom';
-import useReview from '../../useReview/useReview';
+import useReview from '../hooks/useReview/useReview';
 import Comment from '../Comment/Comment';
 
 const Home = () => {
-    
+
     const navigate = useNavigate();
 
     const [comments, setComments] = useReview();

@@ -1,5 +1,5 @@
 import React, { createContext } from 'react';
-import useReview from '../../useReview/useReview';
+import useReview from '../hooks/useReview/useReview';
 import Comment from '../Comment/Comment';
 
 const Reviews = () => {
