@@ -6,7 +6,6 @@ const Reviews = () => {
 
     const [comments, setComments] = useReview();
 
-    console.log(comments);
     return (
         <div>
             <h1 className='text-center text-4xl text-teal-500 my-10' >Our Customer Reviews</h1>

@@ -15,7 +15,7 @@ const Comment = ({ comment }) => {
                 <StarIcon className='w-5 h-5 text-orange-500'></StarIcon>
                 <StarIcon className='w-5 h-5 text-orange-500'></StarIcon>
                 <StarIcon className='w-5 h-5 text-orange-500 mr-2'></StarIcon>
-                <span className='text-md text-orange-300 '> {rating}star</span>
+                <span className='text-md text-orange-300 '> {rating}</span>
             </div>
             <p className='text-gray-400'>{details}</p>
         </div>

@@ -2,6 +2,7 @@ import React, { createContext } from 'react';
 import { useNavigate } from 'react-router-dom';
 import useReview from '../hooks/useReview/useReview';
 import Comment from '../Comment/Comment';
+import { ChevronDoubleRightIcon, EyeIcon, ShieldExclamationIcon } from '@heroicons/react/solid';
 
 const Home = () => {
 
@@ -16,7 +17,7 @@ const Home = () => {
                     <h1 className='text-6xl my-4'>Love The Power</h1>
                     <h2 className='text-6xl my-4'>Love The Price</h2>
                     <p className='text-lg w-[576px] my-4 text-gray-400'>The most powerful MacBook Pro ever is here. With the blazing-fast M1 Pro or M1 Max chip — the first Apple silicon designed for pros — you get groundbreaking performance and amazing battery life. </p>
-                    <button className='bg-green-500 py-2 px-3 rounded-md text-white hover:bg-green-700'>Live Demo</button>
+                    <button className='bg-green-500 py-2 px-3 rounded-md text-white hover:bg-green-700 flex items-center'>Live Demo <EyeIcon className='w-6 h-6 ml-1'></EyeIcon></button>
                 </div>
                 <div>
                     <img className='w-[1210px] h-[740px]' src="https://www.apple.com/v/macbook-pro-14-and-16/b/images/overview/hero/hero_intro_endframe__e6khcva4hkeq_large.jpg" alt="" />
@@ -35,7 +36,7 @@ const Home = () => {
                     }
                 </div>
                 <div className='flex justify-center my-10'>
-                    <button onClick={() => navigate('/reviews')} className=' bg-teal-500 py-2 px-10 rounded-md text-white hover:bg-teal-700 ' >See All Reviews</button>
+                    <button onClick={() => navigate('/reviews')} className=' bg-teal-500 py-2 px-10 rounded-md text-white hover:bg-teal-700 flex items-center' >See All Reviews <ChevronDoubleRightIcon className='h-6 w-6'></ChevronDoubleRightIcon> </button>
                 </div>
             </div>
         </div>

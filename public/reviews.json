@@ -1,44 +1,44 @@
 [
     {
-        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "id": "624a92c0342013b3a236ff44",
         "details": "I was a bit skeptical switching from PC to Mac after all of these years but I couldn't be happier. This MacBook Air is so sleek and smooth. Though getting used to a new OS may take a little time, it was well worth spending a little extra money to get such a solid computer. ",
         "name": "Witt Hayden",
         "rating": 5
     },
     {
-        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "img": "https://images.pexels.com/users/avatars/130203/abbas-malek-hosseini-748.jpeg?auto=compress&fit=crop&h=256&w=256",
         "id": "624a92c0be2d186a01c6c352",
-        "details": "I was a bit skeptical switching from PC to Mac after all of these years but I couldn't be happier. This MacBook Air is so sleek and smooth. Though getting used to a new OS may take a little time, it was well worth spending a little extra money to get such a solid computer. ",
+        "details": "Fantabulous design and built quality. Tremendous and long lasting battery life. Smoothest, bigger and multifunctional touchpad. Superb picture quality and screen harmless for our eyes. Very comfortable to hold in a single hand. Overall a must buy even if you aren't a fan of mac!! ",
         "name": "Crosby Hickman",
-        "rating": 5
+        "rating": 4.8
     },
     {
-        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "img": "https://images.pexels.com/users/avatars/231937/malek-dridi-142.jpeg?auto=compress&fit=crop&h=256&w=256",
         "id": "624a92c014b7e5bea6008e8c",
-        "details": "I was a bit skeptical switching from PC to Mac after all of these years but I couldn't be happier. This MacBook Air is so sleek and smooth. Though getting used to a new OS may take a little time, it was well worth spending a little extra money to get such a solid computer. ",
+        "details": "This is a phenomenal laptop. It's fast, light, and beautiful. The speakers are surprisingly good, while the Retina screen is a sight to behold if this is your first laptop with this kind of resolution.I run games and video editing on it, and I've had no problems so far.",
         "name": "Monroe Dale",
-        "rating": 5
+        "rating": 4.7
     },
     {
-        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "img": "https://images.pexels.com/users/avatars/1265055/shaurya-pratap-singh-392.jpeg?auto=compress&fit=crop&h=256&w=256",
         "id": "624a92c0a8e25ac5420d434e",
-        "details": "I was a bit skeptical switching from PC to Mac after all of these years but I couldn't be happier. This MacBook Air is so sleek and smooth. Though getting used to a new OS may take a little time, it was well worth spending a little extra money to get such a solid computer. ",
+        "details": "I bought this MacBook Pro because I am working on my MBA and I wanted a new MacBook Pro with great battery life and excellent quality fit and finish. I appreciate the fine things in life, and along with my other Apple products I was not disappointed.  ",
         "name": "Lawanda Cannon",
         "rating": 5
     },
     {
-        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "img": "https://images.pexels.com/users/avatars/184982093/malek-hassan-294.jpeg?auto=compress&fit=crop&h=256&w=256",
         "id": "624a92c0b7a0a1aa8b004366",
-        "details": "I was a bit skeptical switching from PC to Mac after all of these years but I couldn't be happier. This MacBook Air is so sleek and smooth. Though getting used to a new OS may take a little time, it was well worth spending a little extra money to get such a solid computer. ",
+        "details": "The Retina display is absolutely stunning and easy on the eyes. Light, sleek design. Easy to connect all your devices and perfect for on the go use, as I bought it for college. This review is from Apple - MacBook Pro ",
         "name": "Delia Parker",
-        "rating": 5
+        "rating": 4.9
     },
     {
-        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "img": "https://images.pexels.com/users/avatars/1212657/abdul-malek-744.jpeg?auto=compress&fit=crop&h=256&w=256",
         "id": "624a92c02f959843adb04337",
-        "details": "I was a bit skeptical switching from PC to Mac after all of these years but I couldn't be happier. This MacBook Air is so sleek and smooth. Though getting used to a new OS may take a little time, it was well worth spending a little extra money to get such a solid computer. ",
+        "details": "This is the first Mac that I have used. I have only ever had a Lenovo and was skeptical to switch to apple despite having all other apple devices.I would say that the only downside is how expensive it was but I would have to say that it is worth it. ",
         "name": "Wiggins Ballard",
-        "rating": 5
+        "rating": 4.8
     }
 ]
